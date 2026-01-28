@@ -5,7 +5,7 @@ import Profile  from './pages/Profile.jsx';
 import SinglePost  from './pages/SinglePost.jsx';
 import Login  from './auth/login/Login.jsx';
 import Register  from './auth/register/Register.jsx';
-import Notfound from './components/notfound/Notfound.jsx';
+import Notfound from './components/not-found/Notfound.jsx';
 import Layout from './components/layout/Layout.jsx';
 import { RouterProvider } from 'react-router-dom';
 import {HeroUIProvider} from "@heroui/react";
